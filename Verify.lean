@@ -1,0 +1,38 @@
+module
+
+import Jsp000726
+
+#print axioms Jsp000726.sharpGapStatements_of_bounds
+#print axioms Jsp000726.admissible_iff_setAdmissible_range
+#print axioms Jsp000726.Upper.invariant.advance_stage
+#print axioms Jsp000726.Upper.gapExponent_of_prefixes
+#print axioms Jsp000726.eventually_no_subset_sum_difference
+#print axioms Jsp000726.not_eventualGapExponent_of_nonpos
+#print axioms Jsp000726.card_mul_card_le_of_progression
+#print axioms Jsp000726.card_sumLayer_ge
+#print axioms Jsp000726.mem_sumLayer_of_opposite_selection
+#print axioms Jsp000726.rankOne_gain_for_gap
+#print axioms Jsp000726.rankTwo_gain_for_gap
+#print axioms Jsp000726.Upper.rowOffset_sum_le
+#print axioms Jsp000726.Upper.fillerValue_gap_le_real
+#print axioms Jsp000726.Upper.gapExponent_of_extension
+#print axioms Jsp000726.PublicStructure.powerSubsetStructure_of_dyadic
+#print axioms Jsp000726.large_gaps_often
+#print axioms Jsp000726.polynomialTermBound_of_eventual_gaps
+#print axioms Jsp000726.Upper.gapExponent_gapThreshold
+#print axioms Jsp000726.Upper.gapExponent_of_threshold_le
+#print axioms Jsp000726.three_le_of_eventualGapExponent
+#print axioms Jsp000726.not_eventual_gap_cap_of_middleLayer
+#print axioms Jsp000726.early_largestLayer_of_uniform_moment
+#print axioms Jsp000726.eventually_opposite_layer_structure
+#print axioms Jsp000726.sharpGapStatements_of_rank_gain
+#print axioms Jsp000726.originalGapExponent_iff
+#print axioms Jsp000726.originalEventualGapExponent_iff
+#print axioms Jsp000726.early_largestLayer_of_eventual_gaps
+#print axioms Jsp000726.oppositeRankGain_one_of_eventual_gaps
+#print axioms Jsp000726.sharpGapStatements_of_dyadic_and_refined_rank_two
+#print axioms Jsp000726.rankTwo_box_dichotomy
+#print axioms Jsp000726.rankTwoCountBounds_of_inflated_family
+#print axioms Jsp000726.refinedRankTwoGain_of_eventual_gaps
+#print axioms Jsp000726.sharpGapStatements_of_dyadic
+#print axioms Jsp000726.sharpOriginalGapStatements_of_dyadic
